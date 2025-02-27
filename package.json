@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "New Year Around The World"
+    "build": "wp-pwa build MidtermExam"
   }
 }
